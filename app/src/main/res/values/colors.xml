@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="surface">#101114</color>
+    <color name="surface_raised">#1A1C21</color>
+    <color name="surface_high">#24272E</color>
+    <color name="text_primary">#F1F3F5</color>
+    <color name="text_secondary">#A8ADB7</color>
+    <color name="accent">#8FD4C8</color>
+    <color name="accent_dim">#315A55</color>
+    <color name="warning">#F0C674</color>
+    <color name="divider">#2A2D34</color>
+    <color name="ripple">#42FFFFFF</color>
+</resources>

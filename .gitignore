@@ -1,0 +1,10 @@
+# Gradle and Android build output
+.gradle/
+build/
+*/build/
+local.properties
+*.iml
+.idea/
+
+# Local-only dependency used for compilation
+lib/
